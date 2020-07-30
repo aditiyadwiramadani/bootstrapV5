@@ -1,0 +1,46 @@
+.joy{
+	background-color: #44C3A8;
+	padding-top: 200px;
+}
+.ma{
+	  padding-bottom: 400px;
+	  margin-left: 400px;
+}
+
+.gambar{
+	width: 175px;
+	border-radius: 175px;
+	
+}
+
+.nama{
+	color: white;
+	padding-left: 20px;
+	margin-top: 20px;
+
+}
+
+
+@media only screen and (max-width: 600px) {
+	
+.joy {
+	padding-top: 100px;
+}
+
+.ma{
+	padding-bottom: 200px;
+	margin-left: 134px;
+}
+
+.gambar{
+	width: 100px;
+	border-radius: 175px;
+	
+}
+
+.nama{
+	color: white;
+	padding-left: 1px;
+	margin-top: 20px;
+
+}
